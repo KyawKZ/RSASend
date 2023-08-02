@@ -1,0 +1,8 @@
+C:\Users\kyawk\source\repos\RSASend\RSASend\bin\Debug\RSASend.exe
+C:\Users\kyawk\source\repos\RSASend\RSASend\bin\Debug\RSASend.pdb
+C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.csproj.AssemblyReference.cache
+C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.csproj.CoreCompileInputs.cache
+C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.exe
+C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.pdb
+C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.Properties.Resources.resources
+C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.csproj.GenerateResource.cache

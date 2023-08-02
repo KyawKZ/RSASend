@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<data>
+  <sig TargetName="blob" value="skip.bin" />
+  <sig TargetName="sig" size_in_bytes="256" verbose="1"/>
+</data>
