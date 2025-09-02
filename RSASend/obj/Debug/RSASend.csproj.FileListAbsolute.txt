@@ -6,3 +6,11 @@ C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.exe
 C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.pdb
 C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.Properties.Resources.resources
 C:\Users\kyawk\source\repos\RSASend\RSASend\obj\Debug\RSASend.csproj.GenerateResource.cache
+C:\Users\KZ\source\repos\KyawKZ\RSASend\RSASend\bin\Debug\RSASend.exe
+C:\Users\KZ\source\repos\KyawKZ\RSASend\RSASend\bin\Debug\RSASend.pdb
+C:\Users\KZ\source\repos\KyawKZ\RSASend\RSASend\obj\Debug\RSASend.csproj.AssemblyReference.cache
+C:\Users\KZ\source\repos\KyawKZ\RSASend\RSASend\obj\Debug\RSASend.Properties.Resources.resources
+C:\Users\KZ\source\repos\KyawKZ\RSASend\RSASend\obj\Debug\RSASend.csproj.GenerateResource.cache
+C:\Users\KZ\source\repos\KyawKZ\RSASend\RSASend\obj\Debug\RSASend.csproj.CoreCompileInputs.cache
+C:\Users\KZ\source\repos\KyawKZ\RSASend\RSASend\obj\Debug\RSASend.exe
+C:\Users\KZ\source\repos\KyawKZ\RSASend\RSASend\obj\Debug\RSASend.pdb

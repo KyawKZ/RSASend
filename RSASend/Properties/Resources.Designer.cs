@@ -59,29 +59,5 @@ namespace RSASend.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; ?&gt;
-        ///&lt;data&gt;
-        ///  &lt;sig TargetName=&quot;blob&quot; value=&quot;skip.bin&quot; /&gt;
-        ///  &lt;sig TargetName=&quot;sig&quot; size_in_bytes=&quot;256&quot; verbose=&quot;1&quot;/&gt;
-        ///&lt;/data&gt;
-        ///.
-        /// </summary>
-        internal static string auth {
-            get {
-                return ResourceManager.GetString("auth", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] skip {
-            get {
-                object obj = ResourceManager.GetObject("skip", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
     }
 }
